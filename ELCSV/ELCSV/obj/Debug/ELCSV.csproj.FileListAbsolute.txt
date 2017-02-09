@@ -1,0 +1,12 @@
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\bin\Debug\ELCSV.exe
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\bin\Debug\ELCSV.pdb
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.csprojResolveAssemblyReference.cache
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.Form1.resources
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.Properties.Resources.resources
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.csproj.GenerateResource.Cache
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.exe
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.pdb
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\bin\Debug\ELCSV.exe.manifest
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\bin\Debug\ELCSV.application
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.exe.manifest
+c:\users\smilla01\documents\visual studio 2015\Projects\ELCSV\ELCSV\obj\Debug\ELCSV.application
